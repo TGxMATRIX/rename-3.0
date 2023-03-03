@@ -44,9 +44,9 @@ Supports 4GB Files
 
 Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
-### 💜 Heroku - simplest way
+###  Heroku - simplest way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/lntechnical2/RENAMER_BOT_V3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/matrixbotz0/rename-3.0)
 
 
 # How To Use Admin Command 
