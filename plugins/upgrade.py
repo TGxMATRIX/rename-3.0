@@ -5,20 +5,22 @@ from pyrogram import Client , filters
 @Client.on_callback_query(filters.regex('upgrade'))
 async def upgrade(bot,update):
 	text = """**Free Plan User**
-	Daily  Upload limit 2GB
+	Daily  Upload Under 2GB
 	Price 0
 	
 	**VIP 1 ** 
-	Daily  Upload  limit 10GB
-	Price Rs 55  🇮🇳/🌎 0.67$  per Month
+	Daily  Upload  4gb 40GB
+	Price Rs 50  🇮🇳/🌎 0.61$  per Month
 	
 	**VIP 2 **
-	Daily Upload limit 50GB
-	Price Rs 80  🇮🇳/🌎 0.97$  per Month
+	Daily Upload 4gb Unlimited 
+	Price Rs 80  🇮🇳/🌎 0.98$  per Month
+
+
 	
-	**VIP3**
-	Daily Upload limit 100GB
-	Price Rs 150  🇮🇳/🌎 1.81$  per Month
+	
+	
+	
 	
 	
 	Pay Using Upi I'd ```9480251952@paytm```
