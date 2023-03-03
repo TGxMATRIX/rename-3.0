@@ -1,10 +1,7 @@
-# RENAMER_BOT_V3
+# RENAMER_3.0
 Telegram renamer bot
 Supports 4GB Files 
 
-## Join Railway
-
-<a href="https://railway.app?referralCode=RFr_Ev">Join To Railway</a>
 
 ## Configs 
 
@@ -49,16 +46,3 @@ Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/matrixbotz0/rename-3.0)
 
 
-# How To Use Admin Command 
-<p align="center">
-    <img src="https://te.legra.ph/file/e4f69a97c8384ec3d5e88.jpg">
-</p>
-
-<p align="center">
-    <img src="https://te.legra.ph/file/f5edd5d4c0029944a0c3d.jpg">
-</p>
-
-# Tutorial Video 
-
-<a href="https://youtu.be/03jQRyMVFCs"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/03jQRyMVFCs"><img src="https://img.shields.io/youtube/views/03jQRyMVFCs?style=social">
